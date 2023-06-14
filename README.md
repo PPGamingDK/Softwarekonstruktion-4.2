@@ -1,4 +1,4 @@
 # Softwarekonstruktion-4.2
 
 
-Just a stupid school project, where we learned about algorithms and recursive stuff.
+Just a boring school project, where we learned about algorithms and recursive stuff.
